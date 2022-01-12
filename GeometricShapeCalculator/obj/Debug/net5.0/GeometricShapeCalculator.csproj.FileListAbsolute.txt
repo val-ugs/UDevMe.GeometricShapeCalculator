@@ -1,0 +1,12 @@
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\obj\Debug\net5.0\GeometricShapeCalculator.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\obj\Debug\net5.0\GeometricShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\obj\Debug\net5.0\GeometricShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\obj\Debug\net5.0\GeometricShapeCalculator.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\obj\Debug\net5.0\GeometricShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\bin\Debug\net5.0\GeometricShapeCalculator.deps.json
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\bin\Debug\net5.0\GeometricShapeCalculator.dll
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\bin\Debug\net5.0\ref\GeometricShapeCalculator.dll
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\bin\Debug\net5.0\GeometricShapeCalculator.pdb
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\obj\Debug\net5.0\GeometricShapeCalculator.dll
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\obj\Debug\net5.0\ref\GeometricShapeCalculator.dll
+C:\Users\Valentin\Desktop\Programming\C#DotNet\TestInterview\GeometricShapeCalculator\UDevMe.GeometricShapeCalculator\GeometricShapeCalculator\obj\Debug\net5.0\GeometricShapeCalculator.pdb
